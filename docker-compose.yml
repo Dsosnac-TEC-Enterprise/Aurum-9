@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  # The Command & Control Service
+  c2_engine:
+    build: .
+    container_name: aurum9_c2_kinetic
+    command: python -m c2_kinetic_engine.micro_segmentation
+    volumes:
+      - .:/usr/src/aurum9
+    restart: unless-stopped
+
+  # The Predictive Intelligence Service
+  oracle_intel:
+    build: .
+    container_name: aurum9_oracle
+    command: python -m oracle_cyber_intel.digital_twin_sandbox
+    volumes:
+      - .:/usr/src/aurum9
+    restart: unless-stopped
+    
