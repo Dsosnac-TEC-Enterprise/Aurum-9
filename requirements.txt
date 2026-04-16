@@ -1,0 +1,10 @@
+# Aurum-9 Python Dependencies
+
+# Network and HTTP requests (Needed for Oracle Threat Intel and C2 webhooks)
+requests>=2.31.0
+
+# System and process monitoring (Needed for C2 Kinetic actions)
+psutil>=5.9.5
+
+# Linting and CI/CD Pipeline tools
+flake8>=6.1.0
