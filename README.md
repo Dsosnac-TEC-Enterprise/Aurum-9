@@ -1,4 +1,4 @@
-![Aurum-9](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aurum-9 🛡️&fontSize=70&fontAlignY=40&desc=C3MRSFramework%20Gateway%20&descAlignY=60&descAlign=50)
+![Aurum-9](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🛡️Aurum-9 &fontSize=70&fontAlignY=40&desc=C3MRSFramework%20Gateway%20&descAlignY=60&descAlign=50)
 
 **The Neural Commander** - Agentic, AI-driven autonomy, predictive intelligence, and kinetic defense.
 
