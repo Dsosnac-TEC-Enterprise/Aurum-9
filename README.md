@@ -22,7 +22,7 @@ graph TD
     A[Aurum-9 Core] --> B{C3MRS Engine}
     B --> C[C2: Kinetic Strike]
     B --> D[Cyber Intel: The Oracle]
-    B --> E[Monitor: Tactical HUD]
+    B --> E[Monitor & Surveillance: Tactical HUD]
     B --> F[Recon: Ghost Legion]
 ```
     
