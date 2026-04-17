@@ -21,6 +21,7 @@ chmod +x setup.sh
    ```
 
 **⚡ The "Ignition" Sequence:**
+
 **Generate the Integrity Baseline:**
    ```bash
 python3 -m core_ironclad.self_healing
@@ -39,5 +40,5 @@ python3 -m http.server 8000
 **Then open your browser to:**
  http://localhost:8000
 
-Be Enjoying 💯
+            Be Enjoying 💯
 
