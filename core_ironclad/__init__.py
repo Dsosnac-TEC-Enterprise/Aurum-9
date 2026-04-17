@@ -9,5 +9,7 @@ mechanisms required by all other Aurum-9 modules.
 # By importing these here, other files can import them directly from 'core_ironclad'
 from .explainable_ai import ExplainableAILogger
 from .self_healing import SelfHealingLogic
+from .neural_pruning import NeuralPruning
 
-__all__ = ["ExplainableAILogger", "SelfHealingLogic"]
+__all__ = ["ExplainableAILogger", "SelfHealingLogic", "NeuralPruning"]
+
