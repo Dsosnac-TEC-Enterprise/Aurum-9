@@ -7,9 +7,9 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
 
 ### Quick Start
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
-   git clone [https://github.com/Sosnac/Aurum-9.git](https://github.com/Sosnac/Aurum-9.git)
+   git clone https://github.com/Dsosnac-TEC-Enterprise/Aurum-9.git
    cd Aurum-9
    ```
 **Run the deployment script:**
