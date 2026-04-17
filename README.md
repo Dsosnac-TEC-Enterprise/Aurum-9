@@ -43,7 +43,9 @@ Welcome to **Aurum-9**, a next-generation cybersecurity framework designed to ac
 
 ## 🛠️ Installation & Setup
 
-(See SETUP.md file✅)
+(See SETUP.md file⚙️)
+
+---
 
 
 
