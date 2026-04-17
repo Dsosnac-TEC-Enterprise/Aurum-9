@@ -19,7 +19,7 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
 chmod +x setup.sh
 ./setup.sh
    ```
-** Viewing Autonomous XAI feed:**
+**Viewing Autonomous XAI feed:**
    ```bash
 python3 main.py
    ```
