@@ -19,7 +19,12 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
 chmod +x setup.sh
 ./setup.sh
    ```
-**Viewing Autonomous XAI feed:**
+**⚡ The "Ignition" Sequence:**
+**Generate the Integrity Baseline:**
+   ```bash
+python3 -m core_ironclad.self_healing
+   ```
+**Lauch the Neural Commander:**
    ```bash
 python3 main.py
    ```
