@@ -19,6 +19,7 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
 chmod +x setup.sh
 ./setup.sh
    ```
+
 **⚡ The "Ignition" Sequence:**
 **Generate the Integrity Baseline:**
    ```bash
