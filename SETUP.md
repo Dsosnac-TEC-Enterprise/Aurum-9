@@ -1,4 +1,4 @@
-### Installing & Setup🚀
+### Installation & Setup🚀
 Deploy the Aurum-9 framework using the automated setup script. This will configure your virtual environment, install dependencies, and launch the Neural Commander.
 
 ### Prerequisites
