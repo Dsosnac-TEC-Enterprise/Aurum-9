@@ -19,6 +19,10 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
 chmod +x setup.sh
 ./setup.sh
    ```
+** Viewing Autonomous XAI feed:**
+   ```bash
+python3 main.py
+   ```
 **🖥️ Accessing the Tactical HUD:**
 
 Once the backend is running,navigate to the 3D HUD directory:
