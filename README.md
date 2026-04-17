@@ -60,6 +60,7 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
    cd Aurum-9
    ```
 2. **Run the deployment script:**
+
    ```bash
 chmod +x setup.sh
 ./setup.sh
