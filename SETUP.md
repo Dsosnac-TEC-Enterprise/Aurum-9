@@ -19,6 +19,7 @@ chmod +x setup.sh
 ./setup.sh
    ```
 **🖥️ Accessing the Tactical HUD:**
+
 Once the backend is running,navigate to the 3D HUD directory:
    ```bash
 cd tactical_hud/frontend_3d
