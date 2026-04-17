@@ -11,4 +11,5 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
    ```bash
    git clone [https://github.com/Sosnac/Aurum-9.git](https://github.com/Sosnac/Aurum-9.git)
    cd Aurum-9
+   ```
 
