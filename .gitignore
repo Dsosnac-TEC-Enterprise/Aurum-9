@@ -1,3 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Aurum-9 Dynamic Data (Local only)
+core_ironclad/hash_registry.json
+core_ironclad/pruning_registry.json
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
 # Build and Release Folders
 bin-debug/
 bin-release/
