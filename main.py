@@ -67,3 +67,5 @@ class Aurum9Commander:
 if __name__ == "__main__":
     commander = Aurum9Commander()
     commander.start_defense_loop()
+else:
+        print("[!] Initialization incomplete. Please fix the errors above and restart.")
