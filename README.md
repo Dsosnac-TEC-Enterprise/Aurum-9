@@ -63,7 +63,7 @@ chmod +x setup.sh
 ./setup.sh
    ```
 **⚡ The "Ignition" Sequence:**
-Run this ignition sequence if the automated script didn't work.
+Run this ignition sequence if the automated script failed to lauch the Neural Commander.
 
 **Install requirements with pip:**
    ```bash
