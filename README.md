@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=THE+NEURAL+COMMANDER;Agentic+AI+Autonomy;Predictive+Kinetic+Defense" alt="Typing SVG" />
 </p>
 
+**Author:** David Sosnac 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Security-Neural_Pruning-blueviolet?style=for-the-badge" />
