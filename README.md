@@ -42,7 +42,7 @@ Welcome to **Aurum-9**, a next-generation cybersecurity framework designed to ac
 3.  **Neural Pruning:** Continuous feedback loops to eliminate false positives and alert fatigue.
 
 ### 🛠️ Installation & Setup
-Deploy the Aurum-9 framework using the automated setup script. This will configure your virtual environment, install dependencies, and launch the Neural Commander.
+Deploy the Aurum-9 framework using our automated setup script. This will configure your virtual environment, install dependencies, and launch the Neural Commander.
 
 ### Prerequisites
 * **Python 3.11+**
