@@ -76,7 +76,7 @@ pip install -r requirements.txt
    ```
 **Lauch the Neural Commander:**
    ```bash
-python3 main.py
+python main.py
    ```
 **🖥️ Accessing the Tactical HUD:**
 
