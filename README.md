@@ -63,8 +63,7 @@ chmod +x setup.sh
 ./setup.sh
    ```
 **⚡ The "Ignition" Sequence:**
-
-Run this ignition sequence if the automated script did work.
+Run this ignition sequence if the automated script didn't work.
 
 **Install requirements with pip:**
    ```bash
