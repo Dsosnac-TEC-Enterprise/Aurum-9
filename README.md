@@ -44,7 +44,7 @@ Immutable hash registries to prevent code drift or tampering.
 * **Neural Pruning:** 
 Continuous feedback loops to eliminate false positives and alert fatigue.
 
-### 🛠️ Installation & Setup
+### 🛠️ Deployment & Setup
 Deploy the Aurum-9 framework using our automated setup script. This will configure your virtual environment, install dependencies, and launch the Neural Commander.
 
 ### Prerequisites
