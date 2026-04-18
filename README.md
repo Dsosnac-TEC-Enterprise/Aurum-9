@@ -62,12 +62,11 @@ Deploy the Aurum-9 framework using the automated setup script. This will configu
 chmod +x setup.sh
 ./setup.sh
    ```
-
 **⚡ The "Ignition" Sequence:**
-
-**Generate the Integrity Baseline:**
+For strict environment like Termux.
+**Install requirements with pip:**
    ```bash
-python3 -m core_ironclad.self_healing
+pip install -r requirements.txt
    ```
 **Lauch the Neural Commander:**
    ```bash
