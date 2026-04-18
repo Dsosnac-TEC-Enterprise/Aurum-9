@@ -63,7 +63,9 @@ chmod +x setup.sh
 ./setup.sh
    ```
 **⚡ The "Ignition" Sequence:**
-For strict environment like Termux.
+
+Run this ignition sequence if the automated script did work.
+
 **Install requirements with pip:**
    ```bash
 pip install -r requirements.txt
