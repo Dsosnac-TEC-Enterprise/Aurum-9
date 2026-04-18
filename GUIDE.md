@@ -14,6 +14,6 @@ Instead of blocking an attacker, use `ShadowClonePivot` to reroute traffic.
 
 ### 3. The Nuclear Option (Dead Man's Switch)
 In the event of a catastrophic breach:
-1. Run `python -m c2_kinetic_engine.dead_man_switch`.
+1. Run `python3 -m c2_kinetic_engine.dead_man_switch`.
 2. Provide your biometric hash signature.
 3. The system will hard-sever all WAN interfaces and lock immutable backups.
