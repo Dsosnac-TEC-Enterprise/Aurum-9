@@ -10,7 +10,7 @@ When the AI detects a high-confidence threat, it triggers **Sub-Second Micro-Seg
 ### 2. The Shadow-Clone Protocol
 Instead of blocking an attacker, use `ShadowClonePivot` to reroute traffic.
 * **Tactic:** The attacker interacts with a disposable container.
-* **Goal:** Record 0-day methodologies without risking production data by running `python3 -m c2_kinetic_engine.shadow_clone`.
+* **Goal:** Record 0-day methodologies without risking production data. To use ShadowClonePivot run `python3 -m c2_kinetic_engine.shadow_clone` in terminal.
 
 ### 3. The Nuclear Option (Dead Man's Switch)
 In the event of a catastrophic breach:
