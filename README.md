@@ -65,7 +65,7 @@ Deploy the Aurum-9 framework using our automated setup script. This will configu
 chmod +x setup.sh
 ./setup.sh
    ```
-** The "Ignition" Sequence:**
+**The "Ignition" Sequence:**
 Run this ignition sequence if the automated script failed to lauch the Neural Commander.
 
 **Install requirements with pip:**
