@@ -85,6 +85,8 @@ python3 -m http.server 8000
    ```
 **Then open your browser to:**
  http://localhost:8000
+
+ To view operator's manual see GUIDE.md file.
  
    *Be Enjoying 💯*
 
