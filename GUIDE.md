@@ -36,6 +36,7 @@ docker build -t aurum9-commander:v1.0
 docker run -d -p 8443:8443 -p 9999:9999 --name aurum9 aurum9-commander:v1.0
 ```
 **Orchestration (Kubernetes):**
+
 For high-availability (HA) environments like AWS EKS or Azure AKS, use the provided Kubernetes manifest to deploy a self-healing cluster.
 
 **Apply the deployment:**
