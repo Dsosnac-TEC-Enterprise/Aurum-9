@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: aurum-9-commander
+  labels:
+    app: aurum-9
+spec:
+  replicas: 3 # Deploys 3 High-Availability clones of your Commander!
+  selector:
+    matchLabels:
+      app: aurum-9
+  template:
+    metadata:
+      labels:
+        app: aurum-9
+    spec:
+      containers:
+      - name: aurum-9-core
+        image: sosnac/aurum-9:v1.0 # This points to your future DockerHub image
+        ports:
+        - containerPort: 8443
+          name: secure-hud
+        - containerPort: 9999
+          name: triage-pipe
+        resources:
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+---
+# Expose it to the Cloud Network
+apiVersion: v1
+kind: Service
+metadata:
+  name: aurum-9-service
+spec:
+  type: LoadBalancer
+  selector:
+    app: aurum-9
+  ports:
+    - protocol: TCP
+      port: 8443
+      targetPort: 8443
