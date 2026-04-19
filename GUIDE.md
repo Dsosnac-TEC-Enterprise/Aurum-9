@@ -44,7 +44,7 @@ For high-availability (HA) environments like AWS EKS or Azure AKS, use the provi
 kubectl apply -f k8s-deployment.yaml
 ```
 
-**Security & Encryption**
+**Security & Encryption:**
 
 All enterprise traffic is hardened via TLS 1.3.
 
@@ -52,7 +52,7 @@ HUD Access: Always use https:// on Port 8443.
 
 Certificate Management: Replace the default cert.pem with your organization's CA-signed certificates for production use.
 
-**Cloud Monitoring**
+**Cloud Monitoring:**
 
 The LoadBalancer service in the K8s manifest will provide a public entry point.
 Ensure your Cloud Security Groups (AWS) or Network Security Groups (Azure) only allow authorized IPs to access the Tactical HUD.
