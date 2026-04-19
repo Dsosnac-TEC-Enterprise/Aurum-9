@@ -47,7 +47,9 @@ kubectl apply -f k8s-deployment.yaml
 **Security & Encryption**
 
 All enterprise traffic is hardened via TLS 1.3.
+
 HUD Access: Always use https:// on Port 8443.
+
 Certificate Management: Replace the default cert.pem with your organization's CA-signed certificates for production use.
 
 **Cloud Monitoring**
