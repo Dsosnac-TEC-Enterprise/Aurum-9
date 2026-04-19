@@ -15,7 +15,7 @@ Only the latest version of Aurum-9 is supported for security updates.
 If you discover a security vulnerability within the C3MRS framework, please **do not open a public issue.** We follow a coordinated disclosure model to ensure operators are protected before a bug becomes public knowledge.
 
 **Reporting Process:**
-1. **Initial Contact:** Email the Lead Operator at `security-triage@your-domain.com` (Replace with your actual email).
+1. **Initial Contact:** Email the Lead Operator at `sosnacdavid@gmail.com`
 2. **Details:** Include a description of the bug, a Proof of Concept (PoC), and the potential impact on the Neural Commander or Kinetic Engine.
 3. **Response:** You will receive an acknowledgment of your report within 48 hours.
 4. **Resolution:** We will work to patch the vulnerability and provide a timeline for a public security advisory.
