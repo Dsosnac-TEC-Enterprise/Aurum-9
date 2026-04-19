@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: aurum-9-core
-        image: sosnac/aurum-9:v1.0 # This points to your future DockerHub image
+        image: Dsosnac-TEC-Enterprise/aurum-9:v1.0 # This points to my future DockerHub image
         ports:
         - containerPort: 8443
           name: secure-hud
