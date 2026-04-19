@@ -27,7 +27,7 @@ try:
     
     print("="*50)
     print(" 🔒 AURUM-9 SECURE HUD: ONLINE (TLS 1.3) ")
-    print(f" [*] Operator: DavidSosnac")
+    print(f" [*] Operator: Dsosnac-TEC-Enterprise")
     print(f" [*] Secure Access: https://localhost:{PORT}")
     print("="*50)
     
