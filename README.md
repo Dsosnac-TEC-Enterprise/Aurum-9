@@ -84,7 +84,7 @@ python main.py
    ```
 **🖥️ Accessing the Tactical HUD:**
 
-Once the backend is running,navigate to the 3D HUD directory:
+Once the backend is running,open new terminal and navigate to the 3D HUD directory:
    ```bash
 cd tactical_hud/frontend_3d
 python3 secure_server.py
