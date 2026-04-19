@@ -83,10 +83,10 @@ python main.py
 Once the backend is running,navigate to the 3D HUD directory:
    ```bash
 cd tactical_hud/frontend_3d
-python3 -m http.server 8000
+python3 secure_server.py
    ```
 **Then open your browser to:**
- http://localhost:8000
+ https://localhost:8443
  
 **Note:**
  To view Aurum-9 Operator's Manual see GUIDE.md file.
