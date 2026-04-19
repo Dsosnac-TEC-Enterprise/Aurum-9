@@ -74,7 +74,7 @@ Run this ignition sequence if the automated script failed to lauch the Neural Co
    ```bash
 pip install -r requirements.txt
    ```
-**Run the healing logic to verify integrity**
+**Run the self-healing logic to verify integrity**
 ```bash
 python3 -m core_ironclad.self_healing
 ```
