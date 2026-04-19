@@ -8,7 +8,7 @@ Only the latest version of Aurum-9 is supported for security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | ✅ YES (Current)    |
+| 1.0.1   | ✅ YES (Current)    |
 | < 1.0   | ❌ NO               |
 
 ## 🕵️ Reporting a Vulnerability
