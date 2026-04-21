@@ -93,7 +93,7 @@ python3 secure_server.py
  https://localhost:8443
  
 **Note:**
- To view Aurum-9 Operator's Manual and Enterprise-grade Deployment (AWS, AZURE, K8s) see our Guide.md file in Docs folder.
+ To view Aurum-9 Operator's Manual and Enterprise-grade Deployment instructions for (AWS, AZURE, K8s) see our Guide.md file in Docs folder.
  
    *Be Enjoying 💯*
 
