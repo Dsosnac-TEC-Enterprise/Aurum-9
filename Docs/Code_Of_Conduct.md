@@ -29,4 +29,4 @@ Original text courtesy of the [Speak Up! project](http://web.archive.org/web/201
 
 ## Questions?
 
-If you have questions, please see our core values. If that doesn't answer your questions, feel free to [contact us](mailto:sosnacdavid@gmail.com).
+If you have questions, please see our core values above👆🏾. If that doesn't answer your questions, feel free to [contact us](mailto:sosnacdavid@gmail.com).
