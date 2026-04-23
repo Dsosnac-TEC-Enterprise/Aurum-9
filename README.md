@@ -91,6 +91,7 @@ python3 secure_server.py
    ```
 **Then open your browser to:**
  https://localhost:8443
+ 
  Make sure you have your CA-signed certificate assigned for secure server.
  
 **Note:**
