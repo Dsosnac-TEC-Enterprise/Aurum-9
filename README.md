@@ -68,7 +68,7 @@ chmod +x setup.sh
 ./setup.sh
    ```
 **The "Ignition" Sequence:**
-Run this ignition sequence if the automated script failed to lauch the Neural Commander.
+Run this ignition sequence if the automated script failed to lauch the Neural Commander. Why would it fail? (  Well, it's because other terminal environments are highly restrictive with how to communicate with libs and that's why the deployment script can work or not work in other environments )
 
 **Install requirements with pip:**
    ```bash
@@ -91,6 +91,7 @@ python3 secure_server.py
    ```
 **Then open your browser to:**
  https://localhost:8443
+ Make sure you have your CA-signed certificate assigned for secure server.
  
 **Note:**
  To view Aurum-9 Operator's Manual and Enterprise-grade Deployment instructions for (AWS, AZURE, K8s) see our Guide.md file in Docs folder.
