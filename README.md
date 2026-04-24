@@ -68,7 +68,7 @@ chmod +x setup.sh
 ./setup.sh
    ```
 **The "Ignition" Sequence:**
-Run this ignition sequence if the automated script failed to lauch the Neural Commander. **Why would it fail?** (Well, it's because other terminal environments are highly restrictive with how to communicate with libs and that's why the deployment script can work or not work in other environments)
+Run this ignition sequence if the automated script failed to lauch the Neural Commander. **Why would it fail?** (Well, it's because other terminal environments are highly restrictive with how they communicate with libs and that's why the deployment script can work or not work in other environments)
 
 **Install requirements with pip:**
    ```bash
